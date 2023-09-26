@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dasha-nkls
+- 👀 I’m interested in Data Science and Finance
+- 📚 I’m currently pursuing a Masters degree in Statistics
+- 💞️ I’m looking to collaborate on Machine Learning & AI projects in the domain of finance.
